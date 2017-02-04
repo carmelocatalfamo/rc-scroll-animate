@@ -20,7 +20,7 @@ export default class Example extends Component {
         <h1>Hello World!</h1>
         <ScrollAnimate animationClassName='fadeInUp' percentage={50} >
           <p>Some text.. some text..</p>
-        </ScrollAnimate
+        </ScrollAnimate>
       </div>
     )
   }
