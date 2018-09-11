@@ -1,3 +1,5 @@
+# this project is not maintained anymore
+____
 ## rc-scroll-animate
 Simple react component for animating DOM elements on scroll with animate.css or custom classes.
 ___
